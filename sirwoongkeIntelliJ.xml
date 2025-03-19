@@ -130,6 +130,8 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
     <option name="SPACES_AROUND_PIPE_IN_UNION_TYPE" value="true" />
+    <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
+    <option name="FORCE_EMPTY_CLASSES_IN_ONE_LINE" value="true" />
     <option name="ATTRIBUTES_WRAP" value="1" />
   </PHPCodeStyleSettings>
   <Python>
@@ -290,6 +292,8 @@
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
